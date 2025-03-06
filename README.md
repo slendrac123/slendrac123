@@ -18,6 +18,6 @@ I am a **Systems Engineer** passionate about simulation, programming, and creati
 
 ## 📫 Contact Me
 - 📧 Email: jencisop@unal.edu.co
-- 🔗 [LinkedIn](jacel-thomás-enciso-pinzón-30b637297)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jacel-thom%C3%A1s-enciso-pinz%C3%B3n-30b637297/)
 
 Thanks for visiting my profile! 🚀
