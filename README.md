@@ -2,7 +2,7 @@
 ## <h1> ***Hi! I'm Thomás Enciso*** </h1>
 <div align="left">
 
-<img  src="https://images.nightcafe.studio/jobs/9D6b8P0z9NRyVXMCsydM/9D6b8P0z9NRyVXMCsydM-4zhlK-adjusted.jpg?tr=w-1080,c-at_max"/>
+<img  src="https://images.nightcafe.studio/jobs/LFQeRElyeGDvjI1ydUNg/LFQeRElyeGDvjI1ydUNg-G5TOy-adjusted.jpg?tr=w-1080,c-at_max"/>
 
 ## <h1>***About Me***</h1>
 <div align="left">
