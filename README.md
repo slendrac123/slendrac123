@@ -1,5 +1,5 @@
 <!-- Introduction -->
-## <h1> ***Hi! I'm Jacel Thomás Enciso*** <img src="" width = "40"/></h1>
+## <h1> ***Hi! I'm Jacel Thomás Enciso*** </h1>
 <div align="left">
 
 <img  src=""/>
@@ -16,40 +16,33 @@
 
 ### Programming Languages
 <p align="left">
-  <img src="" width="64" height="64" alt="Python"/>
-  <img src="" width="64" height="64" alt="JavaScript"/>
-  <img src="" width="64" height="64" alt="C++"/>
-  <img src="" width="64" height="64" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="64" height="64" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="64" height="64" alt="c#"/>
 </p>
 
 ### Frontend Development
 <p align="left">
-  <img src="" width="64" height="64" alt="React"/>
-  <img src="" width="64" height="64" alt="Next.js"/>
-  <img src="" width="64" height="64" alt="Tailwind CSS"/>
-  <img src="" width="64" height="64" alt="PyQt5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="64" height="64" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="64" height="64" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="64" height="64" alt="CSS3"/>
 </p>
 
 ### Backend Development
 <p align="left">
-  <img src="" width="64" height="64" alt="Node.js"/>
-  <img src="" width="64" height="64" alt="Express.js"/>
-  <img src="" width="64" height="64" alt="Flask"/>
-  <img src="" width="64" height="64" alt="Django"/>
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="64" height="64" alt="Node.js"/>
 </p>
 
 ### Databases
 <p align="left">
-  <img src="" width="64" height="64" alt="PostgreSQL"/>
-  <img src="" width="64" height="64" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="64" height="64" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="64" height="64" alt="PostgreSQL"/>
 </p>
 
 ### Other Technologies
 <p align="left">
-  <img src="" width="64" height="64" alt="NS-3"/>
-  <img src="" width="64" height="64" alt="Unity"/>
-  <img src="" width="64" height="64" alt="ANTLR4"/>
-  <img src="" width="64" height="64" alt="Tkinter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="64" height="64" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="64" height="64" alt="Unity"/>
 </p>
 
 ## <h1>***Highlighted Projects*** <img src="" width="30" alt="Animation"/></h1>
@@ -61,9 +54,9 @@
 - 🎼 **Experimental Music** – Soundtrack creation blending dark and electronic styles.
 - 🕹️ **Unity Physics Game** – Collaborative project exploring advanced physics simulations.
 
-## <h1>***Contact Me*** <img src="" width="40" alt="mail"/></h1>
+## <h1>***Contact Me*** <img src="https://img.icons8.com/?size=100&id=MFd4aKzItnZK&format=png&color=000000" width="40" alt="mail"/></h1>
 <div align="left">
 
 ✉️ Email: [jencisop@unal.edu.co](mailto:jencisop@unal.edu.co)
 
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jacel-thom%C3%A1s-enciso-pinz%C3%B3n-30b637297/)
