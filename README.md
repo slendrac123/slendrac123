@@ -2,7 +2,7 @@
 ## <h1> ***Hi! I'm Thomás Enciso*** </h1>
 <div align="left">
 
-<img  src=""/>
+<img  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfs8tna-ea57a2f3-583e-4059-8e8f-f0c50a46658b.jpg/v1/fit/w_750,h_536,q_70,strp/dream_desktop_by_pixeljeff_dfs8tna-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTE1IiwicGF0aCI6IlwvZlwvYzgzYzAwNGUtMTM3MC00NzU2LTg4ZTUtNDA3MWRlNzk3MDg4XC9kZnM4dG5hLWVhNTdhMmYzLTU4M2UtNDA1OS04ZThmLWYwYzUwYTQ2NjU4Yi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.MccvVZutCx_Hi7W3f3qthth-xM0NF6WP9yaTF9D_ecg"/>
 
 ## <h1>***About Me***</h1>
 <div align="left">
@@ -48,9 +48,7 @@
 <div align="left">
 
 - 🎮 **Online Chess Game** – Chess system with Node.js, Socket.io, and Firebase.
-- 🔐 **SPHINCS+ Login System** – Cryptographic authentication security.
-- 📡 **MANET Simulation in NS-3** – Mobility analysis and Ad Hoc network optimization.
-- 🎼 **Experimental Music** – Soundtrack creation blending dark and electronic styles.
+- 🔐 **MLDSS Login System** – Cryptographic authentication security.
 - 🕹️ **Unity Physics Game** – Collaborative project exploring advanced physics simulations.
 
 ## <h1>***Contact Me*** <img src="https://img.icons8.com/?size=100&id=MFd4aKzItnZK&format=png&color=000000" width="40" alt="mail"/></h1>
@@ -58,4 +56,4 @@
 
 ✉️ Email: [jencisop@unal.edu.co](mailto:jencisop@unal.edu.co)
 
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jacel-thom%C3%A1s-enciso-pinz%C3%B3n-30b637297/)
+💼 LinkedIn: [Jacel Thomás Enciso Pinzon](https://www.linkedin.com/in/jacel-thom%C3%A1s-enciso-pinz%C3%B3n-30b637297/)
