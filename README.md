@@ -1,17 +1,16 @@
 <!-- Introduction -->
-## <h1> ***Hi! I'm Jacel Thomás Enciso*** </h1>
+## <h1> ***Hi! I'm Thomás Enciso*** </h1>
 <div align="left">
 
 <img  src=""/>
 
-## <h1>***About Me*** <img src="" width="30" alt="Animation"/></h1>
+## <h1>***About Me***</h1>
 <div align="left">
   
 * 👨‍💻 Systems Engineer specialized in **Visual Computing**, simulations, and software development.
 * 🎮 Passionate about **game development**, **computer graphics**, and **network simulations**.
-* 🔐 Interested in **cryptography**, **AI**, and **concurrent programming**.
 
-## <h1>***I've Worked With*** <img src="" width="30" alt="Animation"/></h1>
+## <h1>***I've Worked With*** <img src="https://img.icons8.com/?size=100&id=2sWu6PtiXHWx&format=png&color=000000" width="30" alt="toolbox"/></h1>
 <div align="left">
 
 ### Programming Languages
@@ -45,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="64" height="64" alt="Unity"/>
 </p>
 
-## <h1>***Highlighted Projects*** <img src="" width="30" alt="Animation"/></h1>
+## <h1>***Highlighted Projects*** <img src="https://img.icons8.com/?size=100&id=16369&format=png&color=000000" width="30" alt="projects"/></h1>
 <div align="left">
 
 - 🎮 **Online Chess Game** – Chess system with Node.js, Socket.io, and Firebase.
