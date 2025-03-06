@@ -2,7 +2,7 @@
 ## <h1> ***Hi! I'm Thomás Enciso*** </h1>
 <div align="left">
 
-<img  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfs8tna-ea57a2f3-583e-4059-8e8f-f0c50a46658b.jpg/v1/fit/w_750,h_536,q_70,strp/dream_desktop_by_pixeljeff_dfs8tna-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTE1IiwicGF0aCI6IlwvZlwvYzgzYzAwNGUtMTM3MC00NzU2LTg4ZTUtNDA3MWRlNzk3MDg4XC9kZnM4dG5hLWVhNTdhMmYzLTU4M2UtNDA1OS04ZThmLWYwYzUwYTQ2NjU4Yi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.MccvVZutCx_Hi7W3f3qthth-xM0NF6WP9yaTF9D_ecg"/>
+<img  src="https://images.nightcafe.studio/jobs/9D6b8P0z9NRyVXMCsydM/9D6b8P0z9NRyVXMCsydM-4zhlK-adjusted.jpg?tr=w-1080,c-at_max"/>
 
 ## <h1>***About Me***</h1>
 <div align="left">
@@ -10,7 +10,7 @@
 * 👨‍💻 Systems Engineer specialized in **Visual Computing**, simulations, and software development.
 * 🎮 Passionate about **game development**, **computer graphics**, and **network simulations**.
 
-## <h1>***I've Worked With*** <img src="https://img.icons8.com/?size=100&id=2sWu6PtiXHWx&format=png&color=000000" width="30" alt="toolbox"/></h1>
+## <h1>***Technologies*** <img src="https://img.icons8.com/?size=100&id=2sWu6PtiXHWx&format=png&color=000000" width="30" alt="toolbox"/></h1>
 <div align="left">
 
 ### Programming Languages
@@ -47,9 +47,8 @@
 ## <h1>***Highlighted Projects*** <img src="https://img.icons8.com/?size=100&id=16369&format=png&color=000000" width="30" alt="projects"/></h1>
 <div align="left">
 
-- 🎮 **Online Chess Game** – Chess system with Node.js, Socket.io, and Firebase.
-- 🔐 **MLDSS Login System** – Cryptographic authentication security.
-- 🕹️ **Unity Physics Game** – Collaborative project exploring advanced physics simulations.
+- 🎮  [**Online Chess Game**](https://github.com/jcadenar/Software-Engineering-I.git)
+- 🔐  [**EnkryptoKitty**](https://github.com/Jmaciass1/EnkryptoKitty.git)
 
 ## <h1>***Contact Me*** <img src="https://img.icons8.com/?size=100&id=MFd4aKzItnZK&format=png&color=000000" width="40" alt="mail"/></h1>
 <div align="left">
