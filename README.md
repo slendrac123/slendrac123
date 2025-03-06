@@ -1,5 +1,5 @@
 <!-- Introduction -->
-## <h1> ***Hello, I'm [Your Name]*** <img src="" width = "40"/></h1>
+## <h1> ***Hi! I'm Jacel Thomás Enciso*** <img src="" width = "40"/></h1>
 <div align="left">
 
 <img  src=""/>
@@ -61,9 +61,9 @@
 - 🎼 **Experimental Music** – Soundtrack creation blending dark and electronic styles.
 - 🕹️ **Unity Physics Game** – Collaborative project exploring advanced physics simulations.
 
-## <h1>***How to Reach Me*** <img src="" width="40" alt="mail"/></h1>
+## <h1>***Contact Me*** <img src="" width="40" alt="mail"/></h1>
 <div align="left">
 
-✉️ Email: [jencisop@unal.edu.co](mailto:your.jencisop@unal.edu.co)
+✉️ Email: [jencisop@unal.edu.co](mailto:jencisop@unal.edu.co)
 
 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
